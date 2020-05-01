@@ -1,0 +1,20 @@
+body{
+	margin: 0;
+	font-family: 'Staatliches', cursive;
+}
+
+header{
+	background-color: #E73636;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+header h1{
+	color: white;
+}
+
+header img{
+	border-radius: 500px;
+	border: 20px solid white;
+}
