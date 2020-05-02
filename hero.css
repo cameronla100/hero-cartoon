@@ -7,14 +7,26 @@ header{
 	background-color: #E73636;
 	text-align: center;
 	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-bottom: 25px;
 }
 
 header h1{
 	color: white;
+	font-size: 75px;
 }
 
 header img{
 	border-radius: 500px;
-	border: 20px solid white;
+	border: 10px solid white;
+	max-width: 350px;
+}
+
+main{
+	text-align: center;
+	margin: 0 auto;
+	max-width: 600px
+}
+
+main img{
+	max-width: 100%;
 }
